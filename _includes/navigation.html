@@ -3,7 +3,7 @@
         <tr>
             {% for nav_item in site.data.nav %}     
                 <th class="nav-item">
-                    <img src={{ nav_item.icon }} alt="" class="nav-icon"/>
+                    <img src={{ nav_item.icon }} alt="" class="inline-icon"/>
                     <a 
                         href={{ nav_item.destination }}
                         {% if nav_item.external == true %}

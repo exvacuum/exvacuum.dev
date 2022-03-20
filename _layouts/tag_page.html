@@ -12,8 +12,12 @@
 <body>
     {% include header.html %}
     <div class="bordered container content-section">
-        <br/>
-        <b>{{ page.title }}</b>
+    {% include tagcloud.html %}
+        <b>Posts with Tag: {{ page.tag }}</b>
+        <ul>
+{% for post in page.posts %}
+<li><a href="{{post.url}}">{{ post.title }} ({{ post.date | date: '%B %d, %Y' }})</a></li><br/>
+{% endfor %}
     </div>
     {% include footer.html %}
 </body>

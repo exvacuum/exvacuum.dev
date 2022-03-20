@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Creating Formatted Log Messages Using Variadic Arguments in C"
-category: "Black Magic"
+categories: [Black Magic]
+tags: [C, Programming]
 author: silas-bartha
 ---
 

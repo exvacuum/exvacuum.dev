@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Sketch-Like Jitter in Unity Using the URP Shader Graph"
-category: "Game Development"
+categories: [Game Development]
+tags: [Shaders, Unity, Game Dev, Design]
+
 author: silas-bartha
 ---
 

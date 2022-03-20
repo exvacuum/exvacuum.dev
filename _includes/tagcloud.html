@@ -1,0 +1,8 @@
+<table class=".bordered" style="float:right; margin-left: 10px; max-width: 20%;">
+    <thead>
+        <th>Tags {% if page.tag %}<a style="color:red;" href="/notes"><</a>{% endif %}</th>
+    </thead>
+    <tbody>
+        <td>{{ site | tag_cloud }}</td>
+    </tbody>
+</table>

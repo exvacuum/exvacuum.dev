@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Using the Ternary Operator in C to Choose Between Two Functions"
-category: "Black Magic"
-tags: C Programming
+categories: [Black Magic]
+tags: [C, Programming]
 author: silas-bartha
 ---
 

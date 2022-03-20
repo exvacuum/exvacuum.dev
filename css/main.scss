@@ -68,7 +68,7 @@ a {
 @supports (font-variation-settings: normal) {
   code { 
     font-family: 'Fira Code VF', monospace; 
-    font-size: 10pt;
+    font-size: 14pt;
   }
 }
 
@@ -79,6 +79,11 @@ a {
 h1, h2, h3 {
     padding: 0;
     margin: 0;
+}
+
+.inline-icon {
+    vertical-align: middle;
+    margin-right: 5px;
 }
 
 /* CSS */
