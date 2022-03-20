@@ -1,0 +1,96 @@
+---
+---
+
+img:not(.smooth) {
+  image-rendering: pixelated;
+}
+
+body {
+  font-family: Unifont, UnifontCSUR;
+  font-size: 12pt;
+  margin:50px;
+  color: #FFF;
+  background: url('/assets/images/bgwhstars.gif'), #000;
+}
+
+.header-ticker {
+    white-space: nowrap;
+}
+
+.header-text {
+  h1 {
+    margin: 0;
+  }
+  text-decoration: none;
+}
+
+.bordered {
+    border: #FFF groove;
+    margin: 5px;
+    padding: 5px;
+    
+    & table {
+        border-collapse: collapse;
+        > thead > tr > th, > tbody > tr > td {
+            border: #FFF groove;
+    padding: 5px;
+        }
+    }
+}
+
+.container {
+  &-flex {
+    display: flex;
+  }
+  &-grid {
+    display: grid;
+  }
+}
+
+a {
+  color: #FFF;
+}
+
+.footer-container {
+  text-align: center;
+}
+
+.content-section {
+  background: #000000A0;
+  overflow: auto;
+}
+
+.App {
+    max-width: 800px;
+    margin: auto;
+}
+
+@supports (font-variation-settings: normal) {
+  code { 
+    font-family: 'Fira Code VF', monospace; 
+    font-size: 10pt;
+  }
+}
+
+.highlight {
+    background: unset !important;
+}
+
+h1, h2, h3 {
+    padding: 0;
+    margin: 0;
+}
+
+/* CSS */
+@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
+
+@font-face {
+  font-family: UnifontCSUR;
+  src: url('/assets/fonts/unifont-csur.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Unifont;
+  src: url('/assets/fonts/unifont.ttf') format('truetype');
+}
+

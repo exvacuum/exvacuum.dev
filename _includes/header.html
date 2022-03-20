@@ -1,0 +1,27 @@
+<div id="header">
+    <div class="bordered content-section">
+        <div class="container-grid" id="header-container">
+            <img
+                src="/assets/images/exvacuum.svg"
+                alt="logo"
+                id="header-logo"
+            /> 
+            <a class="header-text" href="/">
+                <h1>
+                    EX VACVVM
+                    <img 
+                        src="/assets/images/construction.gif"
+                        alt="Under Construction"
+                    />
+                </h1>
+            </a>
+            <span className="header-text">     </span>  
+        </div>
+        <div id="news-ticker" class="container-flex">
+            <span>News:</span>
+            {% assign ticker_items = site.data.news %}
+            {% include ticker.html ticker_items=ticker_items %}
+        </div>
+    </div>
+    {% include navigation.html %}
+</div>

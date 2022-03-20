@@ -1,0 +1,20 @@
+<table class="nav-table content-section">
+    <tbody>
+        <tr>
+            {% for nav_item in site.data.nav %}     
+                <th class="nav-item">
+                    <img src={{ nav_item.icon }} alt="" class="nav-icon"/>
+                    <a 
+                        href={{ nav_item.destination }}
+                        {% if nav_item.external == true %}
+                            target="_blank"
+                            rel="noreferrer"
+                        {% endif %}
+                    >
+                        {{ nav_item.title }}
+                    </a>
+                </th>
+            {% endfor %}
+        </tr> 
+    </tbody>
+</table>

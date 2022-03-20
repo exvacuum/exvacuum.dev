@@ -1,0 +1,19 @@
+<head>
+    <link rel="stylesheet" href="/css/main.css"/>
+    <link rel="stylesheet" href="/css/header.css"/>
+    <link rel="stylesheet" href="/css/ticker.css"/>
+    <link rel="stylesheet" href="/css/syntax.css"/>
+    {% if page.custom_css %}
+        {% for stylesheet in page.custom_css %}
+            <link rel="stylesheet" href="{{ stylesheet }}">
+        {% endfor %}
+    {% endif %}
+</head>
+<body>
+    {% include header.html %}
+    <div class="bordered container content-section">
+        <br/>
+        <b>{{ page.title }}</b>
+    </div>
+    {% include footer.html %}
+</body>

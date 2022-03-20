@@ -1,0 +1,23 @@
+- category: "Games"
+  entries:
+    - title: "Moose Tracks"
+      brief: "A short hike through the woods at night."
+      full: "This game was made over the course of 3 days for the Conestoga College VARLab's 2022 Unity Workshop, where I learned the ropes of the Unity engine. My final product recieved an award for \"Most Ambitious Starting Goal\". When I set out to create this project, I wanted to create an immersive experience that subverted players' expectations in a positive way. I believe this project was very successful, and if you decide to play it for yourself, I'm sure you'll agree."
+      links:
+        - title: "Github Repository"
+          url: "https://github.com/ExVacuum/MooseTracks"
+          icon: "/assets/images/github-icon.png"
+          external: true
+        - title: "Gamejolt Page"
+          url: "https://gamejolt.com/games/moose-tracks/698165"
+          icon: "/assets/images/gamejolt-icon.png"
+          external: true
+        - title: "Itch.io Page"
+          url: "https://exvacuum.itch.io/moose-tracks"
+          icon: "/assets/images/itchio-icon.png"
+          external: true
+        - title: "Gameplay Demo (Slightly Outdated)"
+          url: "https://www.youtube.com/watch?v=-zQ3723WdDY"
+          icon: "/assets/images/youtube-icon.png"
+          external: true
+      cover_image: "/assets/images/moosetracks.png"

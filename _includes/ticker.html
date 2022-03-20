@@ -1,0 +1,19 @@
+<div class="ticker-container">
+    <div class="ticker-wrapper">
+        <div class="ticker-transition">
+            {% for ticker_item in ticker_items %}
+                <div class="ticker-item">
+                    <a 
+                        href={{ ticker_item.url }}
+                        {% if ticker_item.external == true %}
+                            rel="noreferrer"
+                            target="_blank"
+                        {% endif %}
+                    >
+                        {{ ticker_item.title }}
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

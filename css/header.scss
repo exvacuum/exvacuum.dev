@@ -1,0 +1,32 @@
+---
+---
+
+#header-container {
+  grid-template-columns: min-content 1fr;
+  grid-template-rows: min-content 1fr;
+  align-items: start;
+}
+
+#header-logo {
+  width: 64px;
+  margin:10px;
+  grid-row: span 2;
+}
+
+#header {
+  width: 100%;
+}
+
+.nav-table {
+  border-spacing: 10px;
+  margin:-5px;
+  td, th {
+    padding: 5px;
+    width: 1%;
+    border: #FFF groove;
+  }
+  .nav-icon {
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+}

@@ -1,0 +1,16 @@
+- title: "Software"
+  icon: "/assets/images/software-icon.png"
+  destination: "/software"
+
+- title: "Notes & Scraps"
+  icon: "/assets/images/notes-icon.png"
+  destination: "/notes"
+
+- title: "\"Art\""
+  icon: "/assets/images/art-icon.png"
+  destination: "/art"
+
+- title: "YouTube"
+  icon: "/assets/images/youtube-icon.png"
+  destination: "https://www.youtube.com/channel/UC3MRf2fLkLgNf_ixM8fy4JQ"
+  external: true
