@@ -4,7 +4,3 @@
 - title: "Check out my latest game on Itch.io!"
   url: "https://exvacuum.itch.io/moose-tracks"
   external: true
-
-- title: "Site Migrated to Gitlab Pages"
-  url: "https://gitlab.com/SilasBartha/exvacuum.dev"
-  external: true
