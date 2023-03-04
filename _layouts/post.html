@@ -1,4 +1,6 @@
 <head>
+    <meta charset="utf-8">
+    <link rel="icon" type="image/png" href="/assets/images/exvacuum.png"/>
     <link rel="stylesheet" href="/css/main.css"/>
     <link rel="stylesheet" href="/css/header.css"/>
     <link rel="stylesheet" href="/css/ticker.css"/>
@@ -15,7 +17,7 @@
         <br/>
         <b>{{ page.title }}</b>
         <br/>
-        by <a href="https://github.com/{{ site.data.authors[page.author].github }}" rel="noreferrer" target="_blank">{{ site.data.authors[page.author].name }}</a>
+        by <a href="{{ site.data.authors[page.author].url }}" rel="noreferrer" target="_blank">{{ site.data.authors[page.author].name }}</a>
         <br/>
         {{ page.date | date: '%B %d, %Y' }}
         <br/>
