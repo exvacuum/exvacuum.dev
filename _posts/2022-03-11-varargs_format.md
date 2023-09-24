@@ -50,7 +50,7 @@ Introducing...
     int vsprintf(char* str, const char* format, va_list ap);
 ```
 
-The **vsprintf** function allows us to pass an argument of the **va_list** type, which is a special type that represents a list of arguments. Now, we can rewrite our function to create an instance of this type.
+The **vsprintf** function allows us to pass an argument of the **va_list** type, which is a special type that represents a list of arguments. Now, we can rewrite our function to create an instance of this type
 
 ```c
     void logMessage(int level, char* fmt, ...) {
