@@ -8,10 +8,11 @@ img:not(.smooth) {
 }
 
 body {
-  font-family: serif;
+  font-family: Times New Roman;
   font-size: 12pt;
-  color: black;
-  background-color: white;
+  margin:50px;
+  color: #FFF;
+  background: url('/assets/images/bgwhstars.gif'), #000;
 }
 
 .header-ticker {
@@ -26,14 +27,14 @@ body {
 }
 
 .bordered {
-    border: black groove;
+    border: #FFF groove;
     margin: 5px;
     padding: 5px;
     
     & table {
         border-collapse: collapse;
         > thead > tr > th, > tbody > tr > td {
-            border: black groove;
+            border: #FFF groove;
     padding: 5px;
         }
     }
@@ -49,7 +50,7 @@ body {
 }
 
 a {
-  color: black;
+  color: #FFF;
 }
 
 .footer-container {
@@ -57,6 +58,7 @@ a {
 }
 
 .content-section {
+  background: #000000A0;
   overflow: auto;
 }
 
@@ -67,7 +69,7 @@ a {
 
 @supports (font-variation-settings: normal) {
   code { 
-    font-family: monospace; 
+    font-family: 'Anonymous Pro', monospace; 
     font-size: 12px;
     -webkit-font-smoothing: none;
     font-smooth: never;
