@@ -11,7 +11,7 @@ custom_css: /css/home.css
             </td>
         </tr>
         <tr>
-            <th><i>Silas Bartha, probably.</i></th>
+            <th><i>hello world.</i></th>
         </tr>
     </tbody>
 </table>
