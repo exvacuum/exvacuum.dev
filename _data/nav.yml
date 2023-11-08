@@ -2,9 +2,9 @@
   icon: "/assets/images/software-icon.png"
   destination: "/software"
 
-- title: "git"
-  icon: "/assets/images/git-icon.png"
-  destination: "https://git.exvacuum.dev"
+- title: "Github"
+  icon: "/assets/images/github-icon.png"
+  destination: "https://github.com/ExVacuum"
   external: true
 
 - title: "Notes"
