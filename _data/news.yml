@@ -1,6 +1,13 @@
 - title: "Welcome to Silas Bartha!"
   url: "/"
 
-- title: "Check out my latest game on Itch.io!"
-  url: "https://exvacuum.itch.io/moose-tracks"
+- title: "Moved my shit back to GitHub"
+  url: "https://github.com/exvacuum"
+  external: true
+
+- title: "🦌"
+  url: "/sacrisilva"
+
+- title: "It starts with one thing"
+  url: "https://youtu.be/M9J6DKJXoKk?si=y54-Dd4FlRu16cJ7"
   external: true

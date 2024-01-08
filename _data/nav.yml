@@ -2,7 +2,7 @@
   icon: "/assets/images/software-icon.png"
   destination: "/software"
 
-- title: "Github"
+- title: "GitHub"
   icon: "/assets/images/github-icon.png"
   destination: "https://github.com/ExVacuum"
   external: true
@@ -11,9 +11,9 @@
   icon: "/assets/images/notes-icon.png"
   destination: "/notes"
 
-- title: "\"Art\""
-  icon: "/assets/images/art-icon.png"
-  destination: "/art"
+    # - title: "\"Art\""
+    #   icon: "/assets/images/art-icon.png"
+    #   destination: "/art"
 
 - title: "YouTube"
   icon: "/assets/images/youtube-icon.png"

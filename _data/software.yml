@@ -1,11 +1,37 @@
+- category: "Software"
+  entries:
+    - title: "LVNA LITTERA"
+      brief: "A command line program to display the current phase of the moon as a unicode character."
+      links: 
+        - title: "GitHub Repository"
+          url: "https://github.com/exvacuum/luna-littera"
+          icon: "/assets/images/github-icon.png"
+    - title: "pomd/pomc"
+      brief: "A dbus-based pomodoro daemon and client for linux."
+      full: "I got tired of looking for a pomodoro timer program that was unobtrusive and easily integrated into my system, so I made my own."
+      links:
+        - title: "pomd (daemon) GitHub Repository"
+          url: "https://github.com/exvacuum/pomd"
+          icon: "/assets/images/github-icon.png"
+          external: true
+        - title: "pomc (client) GitHub Repository"
+          url: "https://github.com/exvacuum/pomc"
+          icon: "/assets/images/github-icon.png"
+          external: true
+        - title: "pomd crates.io page"
+          url: "https://crates.io/crates/pomd"
+          external: true
+        - title: "pomc crates.io page"
+          url: "https://crates.io/crates/pomc"
+          external: true
 - category: "Games"
   entries:
     - title: "Moose Tracks"
       brief: "A short hike through the woods at night."
-      full: "This game was made over the course of 3 days for the Conestoga College VARLab's 2022 Unity Workshop, where I learned the ropes of the Unity engine. My final product recieved an award for \"Most Ambitious Starting Goal\". When I set out to create this project, I wanted to create an immersive experience that subverted players' expectations in a positive way. I believe this project was very successful, and if you decide to play it for yourself, I'm sure you'll agree."
+      full: "This game was made over the course of 3 days for the Conestoga College VARLab's 2022 Unity Workshop, where I learned the ropes of the Unity engine. My final product recieved an award for \"Most Ambitious Starting Goal\"."
       links:
-        - title: "Github Repository"
-          url: "https://github.com/ExVacuum/MooseTracks"
+        - title: "GitHub Repository"
+          url: "https://github.com/exvacuum/MooseTracks"
           icon: "/assets/images/github-icon.png"
           external: true
         - title: "Gamejolt Page"
