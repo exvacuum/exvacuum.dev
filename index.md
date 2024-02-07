@@ -3,19 +3,6 @@ layout: default
 custom_css: /css/home.css
 ---
 
-<table id='portrait' class='bordered container'>
-    <tbody>
-        <tr>
-            <td>
-                <img class="smooth" title="Hey there ;^)" src="/assets/images/helloworld.jpg"/>
-            </td>
-        </tr>
-        <tr>
-            <th><i>Silas Bartha, probably.</i></th>
-        </tr>
-    </tbody>
-</table>
-
 **Silas Bartha: **
 
 Welcome to my website. I'm a software engineering student in Waterloo, Ontario and a professional software developer.
