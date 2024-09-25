@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title></title>
+      <link>https://exvacuum.dev</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://exvacuum.dev/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>time for a new website</title>
+          <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+          <author>Silas Bartha</author>
+          <link>https://exvacuum.dev/blog/new-website/</link>
+          <guid>https://exvacuum.dev/blog/new-website/</guid>
+          <description xml:base="https://exvacuum.dev/blog/new-website/">&lt;p&gt;dear witness,&lt;&#x2F;p&gt;
+&lt;p&gt;this is the first post on my new website, which i&#x27;m creating using the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&quot;&gt;zola&lt;&#x2F;a&gt; static site generator&lt;&#x2F;p&gt;
+&lt;p&gt;the old site used &lt;a href=&quot;https:&#x2F;&#x2F;exvacuum.dev&#x2F;blog&#x2F;new-website&#x2F;jekyllrb.com&quot;&gt;jekyll&lt;&#x2F;a&gt;, which i like a lot, and i&#x27;ve used it for over 5 years&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;i always found the ruby development environment to be a massive pain in the ass to set up, which is why zola was pretty appealing&lt;&#x2F;p&gt;
+&lt;p&gt;i also never use ruby for damn near anything, so i never keep it installed&lt;&#x2F;p&gt;
+&lt;p&gt;i&#x27;ve also just been meaning to change things up a little in general&lt;&#x2F;p&gt;
+&lt;p&gt;the whole early web 2.0 aesthetic is a lot of fun, but i&#x27;ve been feeling a bit more drawn towards minimalism lately&lt;&#x2F;p&gt;
+&lt;p&gt;besides, i was barely even sentient when that aesthetic was big&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;i might port over the old posts&lt;&#x2F;p&gt;
+&lt;p&gt;might not&lt;&#x2F;p&gt;
+&lt;p&gt;some of that stuff was pretty cool&lt;&#x2F;p&gt;
+&lt;p&gt;you can always check out the internet archive to see that stuff if you want: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20240226014714&#x2F;https:&#x2F;&#x2F;exvacuum.dev&#x2F;notes&quot;&gt;http:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20240226014714&#x2F;https:&#x2F;&#x2F;exvacuum.dev&#x2F;notes&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;idk why i decided to write like this but it&#x27;s kind of funny&lt;&#x2F;p&gt;
+&lt;p&gt;a bit rambly&lt;&#x2F;p&gt;
+&lt;p&gt;it&#x27;s actually really annoying trying to intentionally write poorly&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;i do want to start writing more of these things because god i feel like i learn so much and don&#x27;t have anywhere to share it&lt;&#x2F;p&gt;
+&lt;p&gt;like i have my &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;youtube.com&#x2F;@silasbartha&quot;&gt;youtube channel&lt;&#x2F;a&gt;, which is great when i can muster up the willpower to throw something together, but i don&#x27;t feel like my skills are developed enough to output videos at a rate or quality which would satisfy me&lt;&#x2F;p&gt;
+&lt;p&gt;i would be spending more time on videos about my projects than the projects themselves&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;i&#x27;m actually putting off my big personal project right now to do this lol&lt;&#x2F;p&gt;
+&lt;p&gt;but it&#x27;s important (i think)&lt;&#x2F;p&gt;
+&lt;p&gt;my site&#x27;s on my resume and i&#x27;m looking for jobs right now&lt;&#x2F;p&gt;
+&lt;p&gt;if you&#x27;re a potential employer reading this, first of all: i&#x27;m surprised you read this far!&lt;&#x2F;p&gt;
+&lt;p&gt;but also please hire me or something&lt;&#x2F;p&gt;
+&lt;p&gt;not for frontend web development obviously&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;thanks for reading this,&lt;&#x2F;p&gt;
+&lt;p&gt;- silas&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
